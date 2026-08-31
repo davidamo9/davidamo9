@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" role="img" aria-label="11 projects orchestrated, 400+ compiled knowledge pages, 86 MCP tools in production, 4 countries with deployed robots">
+  <rect width="1200" height="130" rx="16" fill="#0a0a0a"/>
+  <rect x="1" y="1" width="1198" height="128" rx="15" fill="none" stroke="#27272a" stroke-width="2"/>
+  <g stroke="#27272a" stroke-width="1">
+    <line x1="300" y1="28" x2="300" y2="102"/>
+    <line x1="600" y1="28" x2="600" y2="102"/>
+    <line x1="900" y1="28" x2="900" y2="102"/>
+  </g>
+  <g text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <text x="150" y="66" font-size="40" font-weight="700" fill="#f97316">11</text>
+    <text x="450" y="66" font-size="40" font-weight="700" fill="#f97316">400+</text>
+    <text x="750" y="66" font-size="40" font-weight="700" fill="#f97316">86</text>
+    <text x="1050" y="66" font-size="40" font-weight="700" fill="#f97316">4</text>
+  </g>
+  <g text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#71717a" letter-spacing="2">
+    <text x="150" y="96">PROJECTS ORCHESTRATED</text>
+    <text x="450" y="96">KNOWLEDGE PAGES COMPILED</text>
+    <text x="750" y="96">MCP TOOLS IN PRODUCTION</text>
+    <text x="1050" y="96">COUNTRIES WITH LIVE ROBOTS</text>
+  </g>
+</svg>
