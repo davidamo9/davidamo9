@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Aung Myint Oo (AMO) — AI & robotics engineer in Singapore building perception, agents, and learning systems that compound over time."/>
+<img src="assets/banner.svg" width="100%" alt="Aung Myint Oo (AMO): AI & robotics engineer in Singapore building perception, agents, and learning systems that compound over time."/>
 
 <br/><br/>
 
