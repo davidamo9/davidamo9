@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-aungmyintoo.com-F97316?style=for-the-badge&labelColor=0a0a0a)](https://aungmyintoo.com)
 [![About](https://img.shields.io/badge/About-the_full_story-F97316?style=for-the-badge&labelColor=0a0a0a)](https://aungmyintoo.com/about)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aung--myint--oo99-0A66C2?style=for-the-badge&labelColor=0a0a0a&logo=linkedin)](https://www.linkedin.com/in/aung-myint-oo99/)
+[![X](https://img.shields.io/badge/X-@amodev-1D9BF0?style=for-the-badge&labelColor=0a0a0a)](https://x.com/amodev)
 [![Email](https://img.shields.io/badge/Email-say_hello-3f3f46?style=for-the-badge&labelColor=0a0a0a&logo=gmail&logoColor=white)](mailto:aungmyintoo.david@gmail.com)
 
 </div>
