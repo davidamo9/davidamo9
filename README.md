@@ -13,7 +13,7 @@
 
 **AI & robotics engineer in Singapore building perception, agents, and learning systems that compound over time.**
 
-Founding Engineer & Technical Lead at [Salesbugle](https://salesbugle.com), an AI sales coaching SaaS I built from an empty repository to production as the sole engineer. Formerly Robotics & Vision Engineer at Mozark, where I led robotic mobile-device testing systems — Delta robots, computer vision + OCR pipelines, agentic LLM test creation — deployed across Singapore, Philippines, Thailand, and India. MSc Robotics, National University of Singapore.
+Founding Engineer & Technical Lead at [Salesbugle](https://salesbugle.com), an AI sales coaching SaaS I built from an empty repository to production as the sole engineer. Formerly Robotics & Vision Engineer at Mozark, where I led robotic mobile-device testing systems (Delta robots, computer vision + OCR pipelines, agentic LLM test creation) deployed across Singapore, Philippines, Thailand, and India. MSc Robotics, National University of Singapore.
 
 ## What I work on
 
@@ -22,7 +22,7 @@ Founding Engineer & Technical Lead at [Salesbugle](https://salesbugle.com), an A
 <td width="50%" valign="top">
 
 ### 🦾 Robotics & perception
-Delta robots, ROS, OpenCV, OCR, template matching, sensor fusion — systems that act on the physical world from what a camera sees.
+Delta robots, ROS, OpenCV, OCR, template matching, sensor fusion: systems that act on the physical world from what a camera sees.
 
 </td>
 <td width="50%" valign="top">
@@ -42,7 +42,7 @@ Agentic chat with governed writes and audit trails; a hosted remote MCP server e
 <td width="50%" valign="top">
 
 ### 🧠 Learning systems that compound
-[amoOS](https://aungmyintoo.com/amoos) — a fleet of coding agents building across 11 projects, every lesson compiled into a 400+ page knowledge base the agents load next time.
+[amoOS](https://aungmyintoo.com/amoos): a fleet of coding agents building across 11 projects, every lesson compiled into a 400+ page knowledge base the agents load next time.
 
 </td>
 </tr>
@@ -82,11 +82,11 @@ Agentic chat with governed writes and audit trails; a hosted remote MCP server e
 
 | Project | What it is |
 |---|---|
-| [Atlas](https://github.com/davidamo9/atlas) | MCP server that indexes codebases via Tree-sitter AST and serves semantic context to coding agents — 85–90% token reduction. |
+| [Atlas](https://github.com/davidamo9/atlas) | MCP server that indexes codebases via Tree-sitter AST and serves semantic context to coding agents, with 85-90% token reduction. |
 | [optics-framework](https://github.com/davidamo9/optics-framework-public) | Open-source no-code test automation on PyPI: Appium + computer vision + Delta robot arms + an agentic LLM layer. |
-| [Robotic telemanipulation](https://aungmyintoo.com/telemanipulation) | NUS MSc thesis — natural language → computer vision → robot action, end to end. |
+| [Robotic telemanipulation](https://aungmyintoo.com/telemanipulation) | NUS MSc thesis: natural language → computer vision → robot action, end to end. |
 | [Real-time meeting intelligence](https://aungmyintoo.com/meeting-intelligence) | The live-meeting stack behind Salesbugle: an AI participant that presents, listens, and answers by name. |
-| [amoOS](https://aungmyintoo.com/amoos) | My personal software factory — agents build, I plan, dispatch, and verify; the memory compounds. |
+| [amoOS](https://aungmyintoo.com/amoos) | My personal software factory: agents build, I plan, dispatch, and verify; the memory compounds. |
 
 ---
 
